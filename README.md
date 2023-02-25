@@ -1,1 +1,1 @@
-# javascript-code-aur-chai
+# javascript-chai-aur-code
